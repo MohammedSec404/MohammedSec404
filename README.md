@@ -6,20 +6,20 @@
 ### Cybersecurity Student | Developer
 
 <p>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/MohammedSec404">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <a href=https://www.linkedin.com/in/mohammed-adel-al-khulidi-1153873a7/>
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:alkolidy034@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=SECURE+%7C+ANALYZE+%7C+BUILD;Cybersecurity+Enthusiast;Learning+%26+Building+Every+Day" alt="Typing Animation"/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00CC88&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=MohammedSec404&style=for-the-badge&color=00CC88&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
@@ -206,13 +206,17 @@ repetitive security workflows.
 <div align="center">
 
 <picture>
+
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
+    srcset="https://raw.githubusercontent.com/MohammedSec404/MohammedSec404/output/github-contribution-grid-snake-dark.svg">
+
   <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+    srcset="https://raw.githubusercontent.com/MohammedSec404/MohammedSec404/output/github-contribution-grid-snake.svg">
+
   <img alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/MohammedSec404/MohammedSec404/output/github-contribution-grid-snake.svg"
     width="100%">
+
 </picture>
 
 </div>
@@ -221,15 +225,15 @@ repetitive security workflows.
 
 <div align="center">
 
-```text
+<pre>
 ┌──────────────────────────────────────────┐
 │  SECURITY NOTICE                         │
 │  Authorized Security Operations Only     │
 │                                          │
 │  Secure Systems. Build The Future.       │
 └──────────────────────────────────────────┘
-```
+</pre>
 
-**Developed by YOUR_NAME**
+<strong>Developed by MohammedSec404</strong>
 
 </div>
